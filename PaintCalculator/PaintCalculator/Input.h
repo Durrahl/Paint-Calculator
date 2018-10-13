@@ -5,6 +5,7 @@ private:
 	float getInput();
 public:
 	Input();
+	float Gather();
 	~Input();
 };
 
